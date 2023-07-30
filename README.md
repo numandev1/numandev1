@@ -2,6 +2,7 @@
 
 <p align="center">
 <a href="https://stackoverflow.com/users/8079868/muhammad-numan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=8079868" /></a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=numandev1">
 </p>
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/numandev) [<img src="https://img.shields.io/website?label=numan.dev&style=for-the-badge&logo=google%20chrome&url=https://numan.dev">](https://numan.dev) [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/@numandev?sub_confirmation=1) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/numandev1/) [<img src="https://img.shields.io/badge/muhammadnuman70@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:muhammadnuman70@gmail.com">](mailto:muhammadnuman70@gmail.com)
@@ -13,6 +14,8 @@
     <img src="https://img.shields.io/badge/react/react%20native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
   </div>
+
+
 
 # Repositories
 
@@ -50,8 +53,3 @@
 | [react-native-pager-view](https://github.com/callstack/react-native-pager-view/commits?author=numandev1)                                   | [![GitHub Repo stars](https://img.shields.io/github/stars/callstack/react-native-pager-view?color=black&label=Open%20Contributions%20%F0%9F%8C%9F&style=for-the-badge)](https://github.com/callstack/react-native-pager-view/commits?author=numandev1)     
 | [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler/commits?author=numandev1)                                   | [![GitHub Repo stars](https://img.shields.io/github/stars/software-mansion/react-native-gesture-handler?color=black&label=Open%20Contributions%20%F0%9F%8C%9F&style=for-the-badge)](https://github.com/software-mansion/react-native-gesture-handler/commits?author=numandev1)                                                    |
 | [react-native-tvos](https://github.com/react-native-tvos/react-native-tvos/commits?author=numandev1)                                   | [![GitHub Repo stars](https://img.shields.io/github/stars/react-native-tvos/react-native-tvos?color=black&label=Open%20Contributions%20%F0%9F%8C%9F&style=for-the-badge)](https://github.com/react-native-tvos/react-native-tvos/commits?author=numandev1)                                                    |
-
-<details>
-<summary>Click for vanity statistics</summary>
-
-![Numan's GitHub stats](https://github-readme-stats.vercel.app/api?username=numandev1)
